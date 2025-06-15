@@ -115,7 +115,7 @@ Your site will be published at `https://[your-username].github.io/c-exam-prep-qu
 ### Local Deployment
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/c-exam-prep-quiz.git
+git clone https://github.com/[your-username]/c-exam-prep-quiz.git
 ```
 
 2. Open `index.html` in your web browser
