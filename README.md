@@ -95,10 +95,6 @@ Contributions are welcome! Here are some ways you can contribute:
 4. Make your changes
 5. Test thoroughly before submitting a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Font Awesome for the icons
