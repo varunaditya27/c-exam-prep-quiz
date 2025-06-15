@@ -1,6 +1,19 @@
 # C Programming Quiz Master
 
-An interactive web application designed to help users master C programming concepts through quizzes, study materials, and key programming facts. The app features persistent storage using localStorage to save your progress across sessions.
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://varunaditya27.github.io/c-quiz-master)
+
+A comprehensive C programming learning platform designed to help students, developers, and coding enthusiasts master C programming concepts through interactive quizzes, detailed study materials, and key programming facts. Perfect for interview preparation, exam revision, or learning C programming from scratch.
+
+🚀 **Live Demo**: [https://yourusername.github.io/c-quiz-master](https://varunaditya27.github.io/c-quiz-master)
+
+## Key Features
+
+### Why Choose C Programming Quiz Master?
+- 400+ carefully curated questions covering essential C programming concepts
+- Multiple learning modes to suit different learning styles
+- Progress tracking with localStorage for seamless learning continuation
+- Modern, responsive UI with dark/light theme support
+- No sign-up required - just start learning!
 
 ## Features
 
@@ -65,16 +78,42 @@ An interactive web application designed to help users master C programming conce
 - Theme management with persistence
 - Dynamic content loading
 
-## Getting Started
+## Quick Start
 
+1. Visit the [live demo](https://varunaditya27.github.io/c-quiz-master)
+2. Choose a topic from the dashboard
+3. Select your preferred learning mode:
+   - Quiz Mode: Test your knowledge
+   - Study Mode: Learn with detailed explanations
+   - Facts Mode: Master key concepts
+4. Start learning!
+
+Your progress is automatically saved in your browser.
+
+## Deployment
+
+### GitHub Pages
+You can deploy this application using GitHub Pages:
+
+1. Fork this repository
+2. Go to repository Settings
+3. Navigate to "Pages" section
+4. Under "Source", select your main branch
+5. Click Save
+
+Your site will be published at `https://[your-username].github.io/c-quiz-master`
+
+### Local Deployment
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/c-quiz-master.git
 ```
 
 2. Open `index.html` in your web browser
+   - For local development, it's recommended to use a local server (e.g., Live Server in VS Code)
+   - For production, any static file hosting service will work
 
-No additional setup or dependencies required! The application runs entirely in the browser.
+No build process or server-side components required!
 
 ## Contributing
 
@@ -94,10 +133,6 @@ Contributions are welcome! Here are some ways you can contribute:
 3. Start a local server (e.g., using Live Server in VS Code)
 4. Make your changes
 5. Test thoroughly before submitting a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
