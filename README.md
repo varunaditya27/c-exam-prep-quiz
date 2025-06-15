@@ -1,10 +1,10 @@
 # C Programming Quiz Master
 
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://varunaditya27.github.io/c-quiz-master)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://varunaditya27.github.io/c-exam-prep-quiz/)
 
 A comprehensive C programming learning platform designed to help students, developers, and coding enthusiasts master C programming concepts through interactive quizzes, detailed study materials, and key programming facts. Perfect for interview preparation, exam revision, or learning C programming from scratch.
 
-🚀 **Live Demo**: [https://yourusername.github.io/c-quiz-master](https://varunaditya27.github.io/c-quiz-master)
+🚀 **Live Demo**: [https://varunaditya27.github.io/c-exam-prep-quiz/](https://varunaditya27.github.io/c-exam-prep-quiz/)
 
 ## Key Features
 
@@ -80,7 +80,7 @@ A comprehensive C programming learning platform designed to help students, devel
 
 ## Quick Start
 
-1. Visit the [live demo](https://varunaditya27.github.io/c-quiz-master)
+1. Visit the [live demo](https://varunaditya27.github.io/c-exam-prep-quiz/)
 2. Choose a topic from the dashboard
 3. Select your preferred learning mode:
    - Quiz Mode: Test your knowledge
@@ -101,12 +101,12 @@ You can deploy this application using GitHub Pages:
 4. Under "Source", select your main branch
 5. Click Save
 
-Your site will be published at `https://[your-username].github.io/c-quiz-master`
+Your site will be published at `https://[your-username].github.io/c-exam-prep-quiz/`
 
 ### Local Deployment
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/c-quiz-master.git
+git clone https://github.com/yourusername/c-exam-prep-quiz.git
 ```
 
 2. Open `index.html` in your web browser
