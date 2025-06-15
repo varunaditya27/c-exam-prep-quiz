@@ -2,14 +2,19 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://varunaditya27.github.io/c-exam-prep-quiz/)
 
-A comprehensive C programming learning platform designed to help students, developers, and coding enthusiasts master C programming concepts through interactive quizzes, detailed study materials, and key programming facts. Perfect for interview preparation, exam revision, or learning C programming from scratch.
+A focused C programming learning platform that helps students, developers, and coding enthusiasts master key C programming concepts through interactive quizzes, detailed study materials, and essential programming facts. The application covers four fundamental topics in depth:
+
+1. **2D Arrays**: Memory layout, traversal, initialization, and common pitfalls
+2. **Strings**: Declaration, manipulation, memory management, and standard functions
+3. **Structures**: Complex data organization, memory alignment, and usage patterns
+4. **Functions**: Parameters, return values, recursion, and best practices
 
 🚀 **Live Demo**: [https://varunaditya27.github.io/c-exam-prep-quiz/](https://varunaditya27.github.io/c-exam-prep-quiz/)
 
 ## Key Features
 
 ### Why Choose C Programming Quiz Master?
-- 400+ carefully curated questions covering essential C programming concepts
+- 400+ carefully curated questions focusing on 2D Arrays, Strings, Structures, and Functions
 - Multiple learning modes to suit different learning styles
 - Progress tracking with localStorage for seamless learning continuation
 - Modern, responsive UI with dark/light theme support
@@ -81,7 +86,11 @@ A comprehensive C programming learning platform designed to help students, devel
 ## Quick Start
 
 1. Visit the [live demo](https://varunaditya27.github.io/c-exam-prep-quiz/)
-2. Choose a topic from the dashboard
+2. Choose your topic:
+   - 2D Arrays: Master multi-dimensional array concepts
+   - Strings: Learn string manipulation and memory management
+   - Structures: Understand complex data organization
+   - Functions: Practice function design and implementation
 3. Select your preferred learning mode:
    - Quiz Mode: Test your knowledge
    - Study Mode: Learn with detailed explanations
